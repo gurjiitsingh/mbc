@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { SiteProvider } from "@/SiteContext/SiteProvider";
-import { BargerMenu } from "@/Components/Bargermenu/BargerMenu"
+import { BargerMenu } from "@/components/Bargermenu/BargerMenu"
 
 import "@/css/style.css";
 // const roboto = Roboto({
