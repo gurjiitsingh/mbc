@@ -40,7 +40,7 @@ export default function Home() {
 
 
   return (
-    <div className="w-full mx-auto bg-gray-100 text-gray-900 ">
+    <div className="w-full mx-auto bg-gray-100 text-gray-900 py-7">
       {/* Header */}
       <Header />
       <HeroSection />
